@@ -67,7 +67,7 @@ P is a set of our output, and R is the set of corresponding rates of price chang
 
 ta-lib, ta-lib for python, numpy, tensorflow
 
-## Liecence
+## Liscence
 
 The author is Xiaoyu Fang from China. Please quot the source whenever you use it.
 
